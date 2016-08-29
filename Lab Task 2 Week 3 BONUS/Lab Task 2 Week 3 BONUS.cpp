@@ -22,7 +22,7 @@ int main(int argc, char*argv[])
 		if (Numbers.is_open()){
 			cout << "Instert a number A:" << endl;
 			cin >> A;
-			cout << "Instert a number B:" << endl;
+			cout << "Instert a number TEST B:" << endl;
 			cin >> B;
 			A = A^B;
 			cout << A << endl;
